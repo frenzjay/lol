@@ -1,13 +1,13 @@
 [
   {
-    "name": "Geometry Dash",
+    "name": "ZGDPS",
     "link": "https://store.steampowered.com/app/322170/Geometry_Dash/",
-    "author": "RobTop",
+    "author": "ZGDPS",
     "authorLink": "https://www.youtube.com/channel/UCz_yk8mDSAnxJq0ar66L4sw",
     "id": "",
-    "endpoint": "http://boomlings.com/database/",
+    "endpoint": "http://zyanngdps00.7m.pl/database/",
     "timestampSuffix": " ago",
-    "downloadsDisabled": true,
+    "downloadsDisabled": false,
     "demonList": "https://pointercrate.com/"
   },
   
@@ -26,12 +26,12 @@
   },
 
   {
-    "name": "1.9 GDPS",
-    "link": "https://absolllute.com/gdps/",
-    "author": "Absolute",
+    "name": "ZGDPS",
+    "link": "http://zyanngdps00.7m.pl",
+    "author": "Zyanncoby",
     "authorLink": "https://www.youtube.com/channel/UCpdDW0ZdzoRzioT4eTfn-yw",
-    "id": "19gdps",
-    "endpoint": "http://absolllute.com/gdps/gdapi/",
+    "id": "zgdps",
+    "endpoint": "http://zyanngdps00.7m.pl",
     "onePointNine": true,
     "weeklyLeaderboard": true,
     "demonList": "https://pointercrate.xyze.dev/",
